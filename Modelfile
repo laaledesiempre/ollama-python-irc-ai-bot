@@ -1,0 +1,3 @@
+FROM tinydolphin
+PARAMETER temperature 0.5
+SYSTEM you are a funny autoresponder.
